@@ -1,0 +1,62 @@
+[
+  {
+    "category": "Python",
+    "question": "What is Python?",
+    "options": ["A. Programming Language", "B. Snake", "C. Game", "D. OS"],
+    "answer": "A. Programming Language"
+  },
+  {
+    "category": "Python",
+    "question": "Which keyword is used to define a function?",
+    "options": ["A. func", "B. def", "C. function", "D. define"],
+    "answer": "B. def"
+  },
+  {
+    "category": "Math",
+    "question": "5 + 7 = ?",
+    "options": ["A. 10", "B. 11", "C. 12", "D. 13"],
+    "answer": "C. 12"
+  },
+  {
+    "category": "Math",
+    "question": "9 × 3 = ?",
+    "options": ["A. 27", "B. 21", "C. 24", "D. 18"],
+    "answer": "A. 27"
+  },
+  {
+    "category": "GK",
+    "question": "Capital of India?",
+    "options": ["A. Mumbai", "B. Delhi", "C. Chennai", "D. Kolkata"],
+    "answer": "B. Delhi"
+  },
+  {
+    "category": "GK",
+    "question": "National animal of India?",
+    "options": ["A. Lion", "B. Tiger", "C. Elephant", "D. Leopard"],
+    "answer": "B. Tiger"
+  },
+  {
+    "category": "Java",
+    "question": "What is JVM?",
+    "options": ["A. Compiler", "B. Interpreter", "C. Virtual Machine", "D. OS"],
+    "answer": "C. Virtual Machine"
+  },
+  {
+    "category": "Java",
+    "question": "Which keyword is used to inherit a class?",
+    "options": ["A. this", "B. super", "C. extends", "D. implements"],
+    "answer": "C. extends"
+  },
+  {
+    "category": "Python",
+    "question": "Which symbol is used for comments in Python?",
+    "options": ["A. //", "B. /* */", "C. #", "D. --"],
+    "answer": "C. #"
+  },
+  {
+    "category": "Math",
+    "question": "Square of 6?",
+    "options": ["A. 30", "B. 36", "C. 42", "D. 48"],
+    "answer": "B. 36"
+  }
+]
